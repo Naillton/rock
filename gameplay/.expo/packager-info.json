@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://sd-gwn.nailton-junior.gameplay.exp.direct",
+  "packagerNgrokUrl": "https://sd-gwn.nailton-junior.gameplay.exp.direct",
+  "ngrokPid": 21227,
+  "webpackServerPort": 19006,
+  "packagerPid": null
+}
